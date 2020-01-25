@@ -6,7 +6,7 @@
 <h3>Example output</h3>
 <img src="pic1.jpg" width="500" height="500">
 <h3>Communication diagram</h3>
-<img src="communication_schema.png" width="500" height="500">
+<img src="communication_schema.png">
 <h3>Survey diagram</h3>
 <img src="survey_diagram.jpg">
 
