@@ -8,6 +8,6 @@
 <h3>Communication diagram</h3>
 <img src="communication_schema.png" width="500" height="500">
 <h3>Survey diagram</h3>
-<img src="survey_diagram.jpg" width="500" height="500">
+<img src="survey_diagram.jpg">
 
 
