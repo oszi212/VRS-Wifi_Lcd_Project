@@ -5,7 +5,7 @@
 <img src="pic2.png">
 <br>
 <h3><u>Example output</u></h3>
-<img src="pic1.jpg" width="500" height="500">
+<img src="pic1.jpg">
 <br>
 <h3><u>Communication diagram</u></h3>
 <img src="communication_schema.png">
