@@ -1,0 +1,2 @@
+# VRS-Wifi_Lcd_Project
+This project was developed as final project during the course Embedded control systems at faculty Robotics and Kybernetics Engineering of Slovak University Of Technology in Bratislava. This project allows creating screenshot about the selected webpage and displaying selected area to LCD. There the following boards  were used STM32f808, NodeMCU, ILI9163C display  and finally the firmware NodeJS. 
