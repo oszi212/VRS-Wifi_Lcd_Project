@@ -5,12 +5,12 @@
 <img src="./image/pic2.png">
 <br>
 <h3><u>Example output</u></h3>
-<img src="pic1.jpg">
+<img src="./image/pic1.jpg">
 <br>
 <h3><u>Communication diagram</u></h3>
-<img src="communication_schema.png">
+<img src="./image/communication_schema.png">
 <br>
 <h3><u>Survey diagram</u></h3>
-<img src="survey_diagram.jpg">
+<img src="./image/survey_diagram.jpg">
 
 
